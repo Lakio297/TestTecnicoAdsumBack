@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTecnicoAdsum", "TestTecnicoAdsum\TestTecnicoAdsum.csproj", "{75610DCA-3ED5-4332-A85B-3CD648897197}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75610DCA-3ED5-4332-A85B-3CD648897197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75610DCA-3ED5-4332-A85B-3CD648897197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75610DCA-3ED5-4332-A85B-3CD648897197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75610DCA-3ED5-4332-A85B-3CD648897197}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FC5C5D9-4FAD-430E-BF72-36B0B2BB0928}
+	EndGlobalSection
+EndGlobal
